@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidChallange</string>
+    <string name="tu_envias">Tú envias:</string>
+    <string name="tu_recibes">Tú recibes:</string>
+</resources>
