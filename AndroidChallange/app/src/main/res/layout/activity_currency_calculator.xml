@@ -5,7 +5,7 @@
     android:id="@+id/principal_cl_currency_calculator"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".currencycalculator.view.CurrencyCalculatorActivity">
+    tools:context=".ui.currencycalculator.view.CurrencyCalculatorActivity">
 
     <ImageView
         android:id="@+id/iv_logo"

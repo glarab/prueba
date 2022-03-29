@@ -10,16 +10,20 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidChallange.NoActionBar">
         <activity
-            android:name=".curriencies.CurrienciesActivity"
+            android:name=".ui.curriencies.view.ListCurrenciesActivity"
             android:exported="false" />
         <activity
-            android:name=".currencycalculator.view.CurrencyCalculatorActivity"
+            android:name=".ui.curriencies.CurrienciesActivity"
             android:exported="false" />
         <activity
-            android:name=".splash.SplashActivity"
-            android:exported="true" >
+            android:name=".ui.currencycalculator.view.CurrencyCalculatorActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.splash.SplashActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

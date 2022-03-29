@@ -1,9 +1,9 @@
-package pe.com.androidchallange.splash
+package pe.com.androidchallange.ui.splash
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import pe.com.androidchallange.currencycalculator.view.CurrencyCalculatorActivity
+import pe.com.androidchallange.ui.currencycalculator.view.CurrencyCalculatorActivity
 import pe.com.androidchallange.databinding.ActivitySplashBinding
 import java.util.*
 
